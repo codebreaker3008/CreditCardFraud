@@ -51,12 +51,5 @@ This repository contains Python code for detecting credit card fraud using a Ran
 - TQDM (`tqdm`)
 - **Imbalanced-Learn** (`imblearn`)
 
-### Check out Video Demonstration of this Project on my YouTube Channel:
 
-> [Take me there](https://youtu.be/-ZdOvb067as?si=0QoocA3fwCnNjS94)
-
-### Author
-
-Darshan S
-> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
 
